@@ -20,8 +20,5 @@ public class BTest1  extends FirstBaseClass {
     public void ExampleReportstest4(){
         System.out.println("this is Example reportstest4");
     }
-    @Test
-    public void ExampleReportstest5(){
-        System.out.println("this is Example reportstest5");
-    }
+    
 }
